@@ -14,3 +14,19 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('test', function () {
+    return "Hello Andra";
+});
+
+Route::get('social', function () {
+    return view('andrasocial');
+});
+
+Route::get('nama','NamaController@nama');
+
+Route::get('index','TaskController@index');
+
+Route::get('ask','TaskController@ask');
+
+Route::get('tes','TaskController@tes');
