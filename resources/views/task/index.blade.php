@@ -30,6 +30,8 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+
 </head>
 
 <body id="page-top" class="index">
@@ -195,25 +197,25 @@
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <h4>Facebook : {{$facebook}}<h4>
+                                <h4 class="warna-merah">Facebook : {{$facebook}}<h4>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <h4>Twitter : {{$twitter}}<h4>
+                                <h4 class="warna-merah">Twitter : {{$twitter}}<h4>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <h4>Instagram : {{$instagram}}<h4>
+                                <h4 class="warna-merah">Instagram : {{$instagram}}<h4>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
-                                <h4>Slack : {{$slack}}<h4>
+                                <h4 class="warna-merah">Slack : {{$slack}}<h4>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>

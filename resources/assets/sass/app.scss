@@ -7,3 +7,28 @@
 
 // Bootstrap
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+body {
+	font: 110% Calibri, sans-serif;
+	background-color: lightblue;
+}
+
+h1 {
+	color: blue;
+}
+
+p {
+	color: #9900cc;
+}
+
+.warna-merah {
+	color: red;
+}
+
+.warna-hitam {
+	color: black;
+}
+
+.warna-pink {
+	color: #ff3399;
+}

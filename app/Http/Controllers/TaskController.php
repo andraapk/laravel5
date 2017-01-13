@@ -30,9 +30,9 @@ class TaskController extends Controller
    		$data=[
    			'facebook' => "Ko Budi Purnomo",
    			'twitter' => "@budiP",
-   			'instagram' => "@budipurnomo",
+   			'instagram' => "@budi963",
    			'slack' => "@budi"
    		];
-   		return view('task.index', $data);
+   		return view('task.tes', $data);
    	}
 }
