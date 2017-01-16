@@ -30,3 +30,9 @@ Route::get('index','TaskController@index');
 Route::get('ask','TaskController@ask');
 
 Route::get('tes','TaskController@tes');
+
+Route::get('login', function () {
+    return view('login.masuk');
+});
+
+Route::post('masuk', 'LoginController@masuk')->name('masuk');
