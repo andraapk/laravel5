@@ -73,9 +73,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://www.facebook.com/profile.php?id=100008834652022">FACEBOOK</a>
-                    <a href="https://twitter.com/andraapk">TWITTER</a>
-                    <a href="https://www.instagram.com/andrapk/">INSTAGRAM</a>
+                    <a href="https://www.facebook.com/">FACEBOOK</a>
+                    <a href="https://twitter.com/">TWITTER</a>
+                    <a href="https://www.instagram.com/">INSTAGRAM</a>
                     <a href="http://steamcommunity.com/id/SorayaPK/">STEAM</a>
                     <a href="https://thunderlab-internship.slack.com/messages/@andraapk/team/andraapk/">SLACK</a>
                 </div>

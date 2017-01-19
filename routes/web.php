@@ -36,3 +36,5 @@ Route::get('login', function () {
 });
 
 Route::post('masuk', 'LoginController@masuk')->name('masuk');
+
+Route::get('namadb', 'namadbController@getNamaDB')->name('namadb');
